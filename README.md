@@ -1,1 +1,2 @@
-# Tkinter-Database
+# Create-User
+In this program, the user can create an work account upon entering a username and password, gender, user type, and department. The program makes creating an account only possible if the user has filled out all the fields and if the username chosen does not already exist. Upon being created, the account information is stored in a text file and all of the fields are cleared. The user can also type a username into the username field and click "Search". The program looks to see if that username exists, and if if does, it uploads the account information onto all of the fields. This is a Graphical User Interface made using Tkinter.
